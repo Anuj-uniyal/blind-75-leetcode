@@ -117,3 +117,15 @@ EXTRA(by Anuj):
 
 -[✅] Sudoku Solver(https://leetcode.com/problems/sudoku-solver/description/)
 
+---
+
+Important* :
+
+
+1.Merge sort--
+
+a)Count Inversion.
+
+b)Reverse pairs.
+
+
