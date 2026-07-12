@@ -111,7 +111,7 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 
 ---
 
-### **How to Use**
-1. Fork this repository.
-2. Tick off problems as you solve them by replacing `[ ]` with `[x]`.
-3. Happy coding! 🎉
+EXTRA(by Anuj):
+-[✅] N-Queens
+-[✅] Sudoku Solver
+
