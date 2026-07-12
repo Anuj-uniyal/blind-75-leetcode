@@ -114,5 +114,6 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 EXTRA(by Anuj):
 
 -[✅] N-Queens(https://leetcode.com/problems/n-queens/description/)
+
 -[✅] Sudoku Solver(https://leetcode.com/problems/sudoku-solver/description/)
 
